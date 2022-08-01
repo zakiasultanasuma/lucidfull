@@ -1,0 +1,288 @@
+@media ( max-width: 1399px){
+  .phone{
+   right: 7%;
+ 
+  }
+
+
+}
+@media ( max-width: 1199px){
+ .phone{
+  right: 10%;
+  width: 45%;
+
+ }
+
+
+
+ .like_section h1{
+  font-size: 30px;
+}
+
+.like_section span{
+  font-size: 30px;
+}
+
+ .text_al{
+  align-items: center;
+}
+
+
+}
+
+@media ( max-width: 1000px){
+  .phone{
+    right: 4%;
+    width: 50%;
+  }
+
+
+}
+@media ( max-width: 991px){
+
+
+.navbar-toggler:focus {
+
+  box-shadow: none;
+}
+
+.nav-item {
+
+  text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  display: inline-block;
+}
+
+.device_img{
+  margin-top: 12%;
+}
+
+.customized_section{
+  padding-bottom: 50px !important;
+}
+
+.customized_item img{
+  margin-top: 40%;
+
+  margin-left: 30px;
+
+}
+
+.pricing_table{
+  margin-bottom: 13px;
+}
+
+.like_section h1{
+  font-size: 30px;
+}
+
+.like_section span{
+  font-size: 30px;
+}
+
+.text_al{
+  align-items: center;
+}
+
+
+}
+
+@media (max-width: 767px){
+
+  .navbar-brand img{
+    width: 90px;
+  }
+
+  .nav-item{
+    padding-left: 0px;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    display: inline-block;
+  }
+
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: #008ed6;
+}
+
+  .navbar-nav{
+    align-items: center;
+  }
+
+  .phone {
+    display: none;
+  }
+
+  .heading_content p {
+    margin-bottom: 20px;
+  }
+
+  .btn-features {
+    padding: 8px 12px;
+    margin-left: 10px;
+    
+  }
+
+  .btn-download{
+    padding: 8px 12px;
+  }
+
+  .heading_content h1 {
+    font-size: 25px;
+  }
+
+  .heading_content {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+.banner_phone{
+  display: inherit;
+  text-align: center;
+}
+
+.banner_phone img{
+  width: 180px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.device{
+  margin-top: 30px;
+}
+
+.device_img{
+  width: 100%;
+}
+
+.device_heading{
+  text-align: center;
+}
+
+.device_heading span{
+  margin: auto;
+}
+
+.like_section h1{
+  font-size: 25px;
+}
+
+.like_section span{
+  font-size: 25px;
+}
+
+.text_al{
+  align-items: center;
+}
+.pricing_table {
+  margin-bottom: 13px;
+}
+
+.contact_form {
+
+  width: 70%;
+
+
+}
+
+.contact_section {
+  padding-bottom: 455px;
+ 
+}
+
+}
+
+@media(max-width:575px){
+
+.device_heading {
+  text-align: center;
+}
+
+.device_heading span {
+  margin: auto;
+}
+
+.client_heading p {
+  text-align: center;
+}
+
+.client{
+  justify-content: center;
+}
+
+.client_des{
+  margin-left: 10px;
+}
+
+.like_section h1{
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+.like_section span{
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+.button {
+  text-align: center;
+}
+
+.pricing_table {
+  margin-bottom: 12px;
+  
+}
+
+.info {
+
+  margin: 30px 0;
+}
+
+.contact_section {
+  padding-bottom: 440px;
+ 
+}
+
+.contact_form {
+  width: 85%;
+  padding: 30px;
+ 
+
+}
+}
+
+
+@media (max-width: 500px){
+
+  .customized_item img {
+    margin-left: 0px;
+  }
+  
+  }
+
+@media (max-width: 400px){
+
+.customized_item img {
+  margin-left: 0px;
+}
+
+}
+
+
+@media (max-width: 300px){
+  .button .btn-features {
+
+    margin-bottom: 15px;
+}
+
+.customized_item img {
+  margin-left: 0px;
+}
+
+}
+
+
